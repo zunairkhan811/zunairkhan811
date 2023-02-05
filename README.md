@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/zunairkhan811/zunairkhan811/blob/main/IT%20Consultant%20Business%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Zunair khan</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
