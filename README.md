@@ -1,5 +1,8 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Muhammad Zunair khan</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairkhan811&label=Profile%20views&color=0e75b6&style=flat" alt="zunairkhan811" /> </p>
 
@@ -15,7 +18,7 @@
 
 - 📫 How to reach me **zunairkhan811@gmail.com**
 
-- 📄 Know about my experiences [I have 1+ year of experience in Coding as a freelance developer](I have 1+ year of experience in Coding as a freelance developer)
+- 📄 Know about my experiences [I have 1+ year of experience in Coding as a freelance developer]
 
 - ⚡ Fun fact **I am funny 😉❤**
 
