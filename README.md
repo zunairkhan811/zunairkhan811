@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Microverse as Mentor**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking forward for **Full-time job as a Software Developer**
 
