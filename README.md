@@ -14,7 +14,7 @@
 
 - 👯 I’m looking forward for **Full-time job as a Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://zunairkhan811.github.io/Zunair-Desktop-Responsive-Portfolio/](https://zunairkhan811.github.io/Zunair-Desktop-Responsive-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://zunairkhan811.github.io/portfolio/](https://zunairkhan811.github.io/Zunair-Desktop-Responsive-Portfolio/)
 
 - 📫 How to reach me **zunairkhan811@gmail.com**
 
