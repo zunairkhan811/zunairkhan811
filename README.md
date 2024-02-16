@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/zunairkhan811" target="blank"><img src="https://img.shields.io/twitter/follow/zunairkhan811?logo=twitter&style=for-the-badge" alt="zunairkhan811" /></a> </p>
 
-- 🔭 I’m currently working on **Microverse as Mentor**
+- 🔭 Available for accepting new coding challenges
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 Passion for learning new things
 
 - 👯 I’m looking forward for **Full-time job as a Software Developer**
 
